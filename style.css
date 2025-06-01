@@ -1,0 +1,27 @@
+body {
+    background-color: aliceblue;
+}
+header {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: x-large;
+}
+h1 {
+    font-size: large;
+    text-align: center;
+}
+ol {
+    list-style: square;
+    padding-left: 5%;
+}
+a {
+    text-decoration: none;
+}
+/* .contenair {
+    background-color: cadetblue;
+    border-radius: 10px;
+    border: 2px solid;
+    padding: 0;
+    margin: 20px 150px;
+} */
